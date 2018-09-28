@@ -30,7 +30,9 @@
     "font",
     "awesome"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "hoek": "^5.0.4"
+  },
   "devDependencies": {
     "@angular/animations": "^5.2.4",
     "@angular/cli": "1.6.8",
